@@ -111,5 +111,5 @@ func main() {
 		fmt.Printf("Distance %2.f\n", distance)
 		d += distance
 	}
-	fmt.Println("Total distance: ", d)
+	fmt.Printf("Total distance: %.2f\n", d)
 }
