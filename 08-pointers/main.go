@@ -75,6 +75,7 @@ func incrementP(val *int) {
 	*val++
 }
 
+// Slices are passed by value, but its elements are passed by reference.
 func updateSlice(v []int) {
 	fmt.Printf("addrs: %p\n", v)
 	fmt.Printf("addrs 1: %p, addrs 2: %p, addrs 3: %p\n", &v[0], &v[1], &v[2])

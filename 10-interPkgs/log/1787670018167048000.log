@@ -1,0 +1,8 @@
+success: 2026/08/25 17:00:18 main.go:27: test 1
+success: 2026/08/25 17:00:18 main.go:28: test 2
+success: 2026/08/25 17:00:18 main.go:29: test 3
+success: 2026/08/25 17:00:18 main.go:30: test 4
+error: 2026/08/25 17:00:18 main.go:33: test 5
+error: 2026/08/25 17:00:18 main.go:34: test 6
+error: 2026/08/25 17:00:18 main.go:35: test 7
+error: 2026/08/25 17:00:18 main.go:36: test 8
